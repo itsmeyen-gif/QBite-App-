@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523990087851",
+    "project_id": "qbite-594eb",
+    "storage_bucket": "qbite-594eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523990087851:android:f672c413c3bf927b9edfee",
+        "android_client_info": {
+          "package_name": "com.example.qbite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8X7Y6T7kvxbhIeH8jVRmgCrWTUHeuQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
